@@ -1,0 +1,1 @@
+{ "production": { "site_url": "https://www.yourcustomdomain.com", "redirect_urls": [ "https://yourcustomdomain.com/auth/callback", "https://www.yourcustomdomain.com/auth/callback" ], "google_oauth": { "client_id_verified": true, "authorized_origins": ["https://www.yourcustomdomain.com"], "authorized_redirect_uris": [ "https://[PROJECT_ID].supabase.co/auth/v1/callback" ] } } }
